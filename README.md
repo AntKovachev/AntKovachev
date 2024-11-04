@@ -1,6 +1,6 @@
 # 🏄‍♂️ Anton Kovachev
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Javascript Wizard (Junior Developer)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time.
 ---
