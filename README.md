@@ -2,7 +2,7 @@
 
 **`Javascript Wizard (Junior Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time.
+If you're looking for the best JavaScript developer, you've come to the right place.
 ---
 
 ### 🧰 Languages and Tools
